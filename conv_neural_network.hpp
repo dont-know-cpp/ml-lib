@@ -1,7 +1,7 @@
 /* machine-learning-lib
  * convolutional-neural-network (cnn)
  * 
- * Copyright (c) 2012 J.J. <pondfiller1@gmail.com>
+ * Copyright (c) 2012 J.J.
  *
  * This program is free software: you can redistribute it and/or
  * modify it under the terms of the GNU General Public License as
